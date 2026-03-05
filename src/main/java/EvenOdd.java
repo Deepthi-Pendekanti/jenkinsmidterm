@@ -4,7 +4,7 @@ public boolean isEven(int n){
 }
   public static void main(String[] args)
   {
-    System.out.println(isEven())
+    System.out.println(isEven());
   }
   
 }
